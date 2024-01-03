@@ -445,3 +445,10 @@ footer {
 footer p {
   text-align: center;
 }
+
+.project-font{
+  font-size: 20px !important;
+  margin: 1rem;
+  color: black;
+  font-weight: 600;
+}
